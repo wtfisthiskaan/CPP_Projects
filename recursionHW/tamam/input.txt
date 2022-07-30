@@ -1,0 +1,14 @@
+A1,A2,B1,B2,B3
+Links:
+A1->A2
+A1->B1
+A2->B1
+B1->B2
+B1->B3
+B1->A1
+B3->A1
+Paths:
+AAB
+ABB
+ABBAAB
+AAAB
